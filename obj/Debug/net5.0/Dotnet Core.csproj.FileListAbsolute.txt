@@ -1,0 +1,40 @@
+E:\C#\Dotnet Core\bin\Debug\net5.0\appsettings.Development.json
+E:\C#\Dotnet Core\bin\Debug\net5.0\appsettings.json
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.exe
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.deps.json
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.runtimeconfig.json
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.runtimeconfig.dev.json
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.dll
+E:\C#\Dotnet Core\bin\Debug\net5.0\ref\Dotnet Core.dll
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.pdb
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.Views.dll
+E:\C#\Dotnet Core\bin\Debug\net5.0\Dotnet Core.Views.pdb
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.csprojAssemblyReference.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.AssemblyInfoInputs.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.AssemblyInfo.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.csproj.CoreCompileInputs.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.RazorAssemblyInfo.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.RazorAssemblyInfo.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\staticwebassets\Dotnet Core.StaticWebAssets.Manifest.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\staticwebassets\Dotnet Core.StaticWebAssets.xml
+E:\C#\Dotnet Core\obj\Debug\net5.0\scopedcss\bundle\Dotnet Core.styles.css
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.TagHelpers.input.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.TagHelpers.output.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.RazorCoreGenerate.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.RazorTargetAssemblyInfo.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.RazorTargetAssemblyInfo.cs
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.Views.pdb
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.dll
+E:\C#\Dotnet Core\obj\Debug\net5.0\ref\Dotnet Core.dll
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.pdb
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.genruntimeconfig.cache
+E:\C#\Dotnet Core\obj\Debug\net5.0\Dotnet Core.csproj.CopyComplete
